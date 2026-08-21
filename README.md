@@ -16,6 +16,22 @@ Currently focused on strengthening my fundamentals, building projects, and explo
 
 ---
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github.com/mohdzohaibkhan/github-stats/blob/generated/overview.svg#gh-dark-mode-only" />
+</p>
+
+---
+
+## 💻 Top Languages
+
+<p align="center">
+  <img src="https://github.com/mohdzohaibkhan/github-stats/blob/generated/languages.svg#gh-dark-mode-only" />
+</p>
+
+---
+
 ### 🚀 Featured Projects
 
 | Project           | What it is                                         | Built with              |
@@ -31,17 +47,6 @@ Currently focused on strengthening my fundamentals, building projects, and explo
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
-</p>
-
----
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github.com/mohdzohaibkhan/github-stats/blob/generated/overview.svg#gh-dark-mode-only" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/mohdzohaibkhan/github-stats/blob/generated/languages.svg#gh-dark-mode-only" />
 </p>
 
 ---
