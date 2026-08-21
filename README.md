@@ -19,7 +19,8 @@ Currently focused on strengthening my fundamentals, building projects, and explo
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github.com/mohdzohaibkhan/github-stats/blob/generated/overview.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/mohdzohaibkhan/github-stats/generated/overview.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/mohdzohaibkhan/github-stats/generated/overview.svg#gh-light-mode-only" />
 </p>
 
 ---
@@ -27,7 +28,8 @@ Currently focused on strengthening my fundamentals, building projects, and explo
 ## 💻 Top Languages
 
 <p align="center">
-  <img src="https://github.com/mohdzohaibkhan/github-stats/blob/generated/languages.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/mohdzohaibkhan/github-stats/generated/languages.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/mohdzohaibkhan/github-stats/generated/languages.svg#gh-light-mode-only" />
 </p>
 
 ---
